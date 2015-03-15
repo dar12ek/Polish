@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avoid_disturb_app_whitelist">
+        <item>com.google.android.apps.maps</item>
+        <item>com.google.android.apps.maps-1</item>
+        <item>com.citynav.jakdojade.pl.android</item>
+        <item>brut.googlemaps</item>
+    </string-array>
+</resources>

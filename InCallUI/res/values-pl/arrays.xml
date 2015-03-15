@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ims_call_types">
+        <item>Głos</item>
+        <item>Wideo</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globalny</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Tylko EvDo</item>
+        <item>CDMA bez EvDo</item>
+        <item>Automatyczny CDMA/EvDo</item>
+        <item>Automatyczny GSM/WCDMA</item>
+        <item>Tylko WCDMA</item>
+        <item>Tylko GSM</item>
+        <item>Preferowany GSM/WCDMA</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY wyłączony</item>
+        <item>TTY pełny</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normalne</item>
+        <item>Długie</item>
+    </string-array>
+</resources>

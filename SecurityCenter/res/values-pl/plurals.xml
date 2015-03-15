@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d dni "</item>
+        <item quantity="one">"%d dzień "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d godz. "</item>
+        <item quantity="one">"%d godz. "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min. "</item>
+        <item quantity="one">"%d min. "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplikacji z autostartem</item>
+        <item quantity="one">%d aplikacja z autostartem</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d aplikacji bez autostartu</item>
+        <item quantity="one">%d aplikacja bez autostartu</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d uprawnień</item>
+        <item quantity="one">%d uprawnienie</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="one">%d aplikacji</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d aplikacji z dostępem do root</item>
+        <item quantity="one">%d aplikacja z dostępem do root</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d aplikacji bez root</item>
+        <item quantity="one">%d aplikacja bez root</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Aktualizacje dla %d aplikacji.</item>
+        <item quantity="one">Aktualizacja dla %d aplikacji.</item>
+    </plurals>
+</resources>

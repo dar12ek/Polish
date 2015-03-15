@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Witamy</string>
+    <string name="input_method_setting">Wybierz klawiaturę</string>
+    <string name="input_method_category">"Możesz wybrać spośród dwóch metod wprowadzania tekstu:
+
+  - Klawiatura Xperia w kolorach MIUI 6 (by ZduneX25)
+  - Klasyczna klawiatura Google"</string>
+    <string name="provision_inputmethod_policy_description">Wybór ten możesz potem zmienić w Ustawieniach telefonu</string>
+    <string name="provision_inputmethod_policy_description1" />
+    <string name="multisim_settings_title">Wykryto 2 karty SIM</string>
+    <string name="multisim_settings_category">Opcje kart SIM</string>
+    <string name="page_layout_title">Wygląd systemu</string>
+    <string name="page_layout_label">Dostosuj rozmiar czcionki i wygląd ekranu domowego, paska powiadomień, dialera itp.</string>
+    <string name="sim_card_detection">Włóż kartę SIM</string>
+    <string name="sim_card_detection_info">O tym jak włożyć kartę SIM do urządzenia przeczytasz w instrukcji obsługi</string>
+    <string name="sim_card_detecting">Sprawdzanie karty SIM…</string>
+    <string name="other_settings">Inne ustawienia</string>
+    <string name="other_settings_location">Usługi lokalizacji</string>
+    <string name="other_settings_location_summary">Zezwól na dostęp aplikacji do lokalizacji przez GPS</string>
+    <string name="other_settings_user_experience">Opinie użytkowników</string>
+    <string name="other_settings_user_experience_summary">Pomóż MIUI w ulepszaniu produktów przez przesyłanie anonimowych danych %s</string>
+    <string name="other_settings_user_experience_summary1">(Polityka Prywatności)</string>
+    <string name="next">Dalej</string>
+    <string name="sim_dectection_next">Dalej</string>
+    <string name="shut_down">Wyłącz</string>
+    <string name="sim_redetection">Sprawdź ponownie</string>
+    <string name="title_congratulation">Gotowe!</string>
+    <string name="congratulation_label" />
+    <string name="pref_title_voice_slot">Preferowana karta SIM (połączenia)</string>
+    <string name="pref_title_data_slot">Preferowana karta SIM (dane)</string>
+    <string name="summary_not_set">Nieustawione</string>
+    <string name="summary_sim_card">Karta %1$d%2$s</string>
+    <string name="ime_privacy_policy">Polityka Prywatności wybranej klawiatury</string>
+    <string name="ime_privacy_policy_no_network">Nie można połączyć się z Internetem. Wyświetl Politykę Prywatności z %s.</string>
+    <string name="terms_of_use">Warunki Użytkowania</string>
+    <string name="terms_of_use_label">Musisz zgodzić się na Warunki Użytkowania i Politykę Prywatności zanim zaczniesz korzystać z MIUI.</string>
+    <string name="user_agreement">Umowa Użytkownika</string>
+    <string name="privacy_policy">Polityka Prywatności</string>
+    <string name="agree">Zgadzam się</string>
+    <string name="disagree">Nie zgadzam się</string>
+    <string name="network_access_warning">Do aktywacji urządzenia wymagane jest połączenie z siecią</string>
+    <string name="setting_locale">Ustawianie języka i regionu...</string>
+    <string name="miui_terms_no_network">"Brak połączenia z siecią. 
+  Przeczytaj Warunki Użytkowania na %s"</string>
+    <string name="miui_privacy_policy_no_network">"Brak połączenia z siecią. 
+  Przeczytaj Politykę Prywatności na %s"</string>
+    <string name="locale_picker_title">Wybierz lokalizację</string>
+    <string name="locale_picker_desc">Zmiana lokalizacji w przyszłości będzie wymagać formatu telefonu do ustawień fabrycznych</string>
+    <string name="locale_picker_confirm_dialog_title">Ustawienia lokalizacji</string>
+    <string name="locale_picker_confirm_dialog_desc">Wybrać %s jako Twoją lokalizację?</string>
+    <string name="provision_finish">OK</string>
+    <string name="provision_finish_restart">Restart</string>
+    <string name="install_preinstall_app">Wczytywanie aplikacji…</string>
+    <string name="terms_of_service">Warunki Użytkowania</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@style/TextAppearance.StatusBar">
+        <item name="textSize">@dimen/notification_text_size</item>
+        <item name="textColor">@color/statusbar_content</item>
+        <item name="ellipsize">marquee</item>
+        <item name="fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="textSize">@dimen/notification_title_text_size</item>
+        <item name="textStyle">bold</item>
+        <item name="textColor">@color/statusbar_content_title</item>
+        <item name="fontFamily">sans-serif-light</item>
+    </style>
+</resources>

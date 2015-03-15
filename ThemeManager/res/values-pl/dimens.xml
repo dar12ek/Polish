@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_title_corner_text_size">9.0sp</dimen>
+    <dimen name="resource_comment_secondary_text_size">11.5sp</dimen>
+    <dimen name="resource_page_item_multiple_button_title_text_size">11.0sp</dimen>
+    <dimen name="resource_page_item_title_text_size">12.599976sp</dimen>
+</resources>

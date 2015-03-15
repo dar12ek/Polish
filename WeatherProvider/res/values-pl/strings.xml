@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Dostawca Pogody</string>
+    <string name="view_indexes_wind_unit">km/h</string>
+    <string name="view_realtime_clear_substitution">Przejrzystość</string>
+</resources>

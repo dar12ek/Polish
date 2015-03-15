@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_text_size">12.0sp</dimen>
+    <dimen name="secondary_text_size">13.0sp</dimen>
+    <dimen name="action_bar_tab_text_size">14.0sp</dimen>
+    <dimen name="numberpicker_label_text_size">11.0sp</dimen>
+    <dimen name="guide_popup_text_size">12.0sp</dimen>
+    <dimen name="text_font_size_list_secondary">13.0sp</dimen>
+</resources>

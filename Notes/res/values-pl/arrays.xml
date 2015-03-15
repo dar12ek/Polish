@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Imię</item>
+        <item>Pseudonim</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Firma</item>
+        <item>Komunikator</item>
+        <item>Telefon SIP</item>
+        <item>Urodziny</item>
+        <item>Strona WWW</item>
+        <item>Adres</item>
+        <item>Notatka</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Mała</item>
+        <item>Średnia</item>
+        <item>Duża</item>
+        <item>Największa</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Witaj w Notatkach MIUI!
+
+Notatki MIUI pozwalają na szybkie tworzenie przypomnień bezpośrednio w programie lub przez widżety
+"</item>
+        <item>"Dodawanie zdjęć lub kontaktów
+"</item>
+        <item>"Tworzenie zadań
+"</item>
+        <item>"I funkcje synchronizacji z Chmurą Xiaomi
+
+Podziel się wrażeniami na: 
+http://miuipolska.pl
+"</item>
+    </string-array>
+</resources>

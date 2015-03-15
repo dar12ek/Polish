@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Usuń</string>
+    <string name="unlockscreen_recharging_message">Ładowanie %d%%</string>
+    <string name="unlockscreen_recharge_completed">Naładowany</string>
+    <string name="unlockscreen_low_battery">Podłącz ładowarkę</string>
+    <string name="lockscreen_charging_msg">Ładowanie</string>
+    <string name="emergency_call_string">Alarmowe</string>
+    <string name="forget_password_string">Nie pamiętam hasła</string>
+    <string name="input_puk_code">Wpisz PUK</string>
+    <string name="unlocking_sim_card">Odblokowywanie SIM</string>
+    <string name="input_pin_code">Wpisz PIN</string>
+    <string name="incorrect_pukcode_remaining_attempts">Nieprawidłowy PUK. Pozostało prób: %d</string>
+    <string name="incorrect_pincode_remaining_attempts">Nieprawidłowy PIN. Pozostało prób: %d</string>
+    <string name="incorrect_pukcode">Nieprawidłowy kod PUK</string>
+    <string name="incorrect_pincode">Nieprawidłowy PIN</string>
+    <string name="open_wifi_settings">Otwórz połączenia sieciowe</string>
+    <string name="lock_screen_date">d MMMM, yyyy</string>
+    <string name="lockscreen_glogin_password_hint">Hasło</string>
+    <string name="lockscreen_glogin_checking_password">Sprawdzanie…</string>
+    <string name="login_website_in_case_forget_password">Aby zresetować hasło przejdź do i.mi.com.</string>
+    <string name="experimental_validate_thanks">Thank you!</string>
+    <string name="experimental_validate_warning">Thank you for helping make MIUI better!</string>
+    <string name="experimental_validate">Validate</string>
+    <string name="experimental_try_string">Try</string>
+    <string name="experimental_validate_username">Nazwisko</string>
+    <string name="experimental_validate_password">Hasło</string>
+    <string name="experimental_validate_progress">Wpisywanie…</string>
+    <string name="experimental_validate_fail">Sign-in failed</string>
+    <string name="lockscreen_glogin_invalid_input">Nieprawidłowa nazwa użytkownika lub hasło</string>
+    <string name="find_device_turn_off_flight_mode">Wyłącz tryb samolotowy</string>
+    <string name="phone_locked_string">Urządzenie zablokowane</string>
+    <string name="phone_locked_timeout_seconds_string">Spróbuj ponownie za %s sek</string>
+    <string name="phone_locked_timeout_minutes_string">Spróbuj ponownie za %s min</string>
+    <string name="input_password_hint_text">Wpisz hasło</string>
+    <string name="unlock_sim_string">Odblokuj SIM</string>
+    <string name="lockscreen_glogin_submit_button">Wpisz się</string>
+    <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
+    <string name="lockscreen_access_pattern_cleared">Wzór wyczyszczony</string>
+    <string name="lockscreen_access_pattern_cell_added">Dodana komórka</string>
+    <string name="lockscreen_access_pattern_detected">Wzór wykryty</string>
+    <string name="default_lockscreen_unlock_hint_text">Przesuń w górę by odblokować</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Wprowadzono niepoprawne hasło %d razy. 
+  Po kolejnych %d próbach zakończonych niepowodzeniem zostaniesz poproszony o wpisanie się z użyciem danych logowania do konta.
+
+ Spróbuj ponownie za %d sekund."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Nie udało się odblokować urządzenia po %d próbach. Po kolejnych %d próbach zakończonych niepowodzeniem urządzenie zostanie zresetowane do ustawień fabrycznych.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">"Odblokowanie urządzenia nie było możliwe po %d próbach. 
+Urządzenie zostanie zresetowane do ustawień fabrycznych!"</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Odblokowano przez Bluetooth</string>
+    <string name="missed_call_text">%d nieodebranych</string>
+    <string name="wrong_password">Nieprawidłowe hasło</string>
+    <string name="keyguard_torch_cover_text">Naciśnij przycisk Zasilania by włączyć latarkę</string>
+    <string name="confirm_pin_msg">Wpisz ponownie PIN</string>
+    <string name="invalid_confirm_pin_hint">Kody PIN nie są takie same</string>
+    <string name="unlock_string">Odblokuj</string>
+    <string name="open_camera_hint_text">Przesuń w lewo do Aparatu</string>
+    <string name="open_remote_center_hint_text">Przesuń w prawo do MiPilota</string>
+    <string name="click_to_enter_text">Dotknij by odblokować</string>
+</resources>

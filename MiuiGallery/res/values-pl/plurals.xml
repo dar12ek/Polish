@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Usunąć %s zdjęć z chmury?</item>
+        <item quantity="one">Usunąć %s zdjęcie z chmury?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Usunąć %s zdjęć?</item>
+        <item quantity="one">Usunąć %s zdjęcie?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Usunąć %s filmów z chmury?</item>
+        <item quantity="one">Usunąć %s filmów z chmury?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Usunąć %s filmów?</item>
+        <item quantity="one">Usunąć %s film?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Usunąć %s zdjęć z urządzenia i chmury?</item>
+        <item quantity="one">Usunąć %s zdjęcie z urządzenia i chmury?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Usunąć %s filmów z urządzenia i chmury?</item>
+        <item quantity="one">Usunąć %s filmów z urządzenia i chmury?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Wybrane: %1$d</item>
+        <item quantity="zero">Wybrane: %1$d</item>
+        <item quantity="one">Wybrane: %1$d</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">Zdjęć: %d</item>
+        <item quantity="one">Zdjęć: %d</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">Filmów: %d</item>
+        <item quantity="one">Filmów: %d</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">Katalogów: %d</item>
+        <item quantity="one">Katalogów: %d</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Nie masz uprawnień do usunięcia %d plików.</item>
+        <item quantity="one">Nie masz uprawnień do usunięcia %d pliku.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Możesz zaznaczyć %d elementów</item>
+        <item quantity="one">Możesz zaznaczyć %d element</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d zdjęć</item>
+        <item quantity="zero">%1$d zdjęć</item>
+        <item quantity="one">%1$d zdjęcie</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="zero">%1$d elementów</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+</resources>
